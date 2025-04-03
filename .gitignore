@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+data/
+model/GoogleNews-vectors-negative300.kv.vectors.npy
 build/
 develop-eggs/
 dist/
